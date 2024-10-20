@@ -35,7 +35,7 @@ This Python-based tool evaluates IELTS Writing Task 2 essays by leveraging Amazo
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/ielts-writing-task-2-validator.git
+   https://github.com/sajithsajith/IELTS_writing_task2_validator.git
    ```
 
 2. Install required packages:
